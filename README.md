@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **C projects**
 
-- 🌱 I’m currently bolstering **my knowledge of Bootstrap, Node.js**
+- 🌱 I’m currently bolstering **my knowledge of Bootstrap, Javascript**
 
 - 👯 I’m looking to collaborate on **exciting software engineering projects**
 
